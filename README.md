@@ -1,0 +1,1 @@
+# clang-tidy_binop_ptr
